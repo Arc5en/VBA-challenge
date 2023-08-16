@@ -3,6 +3,7 @@ For Data Analytics Bootcamp Module 2 Challenge
 
 'Most code was from TA Drew Hoang's speedrun of this assignment, with some changes in variable names. Also has more comments for personal understanding of each of the functions. -John T. Nguyen
 
+```
 Sub stocks()
 
     'labeling plenty of variables
@@ -131,4 +132,4 @@ Sub stocks()
     Next ws
         
 End Sub
-
+```
